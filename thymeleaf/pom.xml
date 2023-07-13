@@ -44,7 +44,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>docker-spring-boot</finalName>
+		<finalName>thymeleaf-0.0.1-SNAPSHOT.jar</finalName>
 	</build>
 
 </project>
